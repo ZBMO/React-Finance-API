@@ -1,0 +1,83 @@
+#header {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 45px;
+}
+
+#tickerpick {
+  padding: 5px;
+  margin: 5px;
+  font-size: 20px;
+}
+
+#reportpick {
+  padding: 5px;
+  margin: 5px;
+  font-size: 20px;
+}
+
+#companystyle {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.btn {
+  color: black;
+  background: transparent;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 15px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.btn:hover {
+  background: #dadbde;
+  }
+
+body {
+  position: relative;
+  margin: 0px;
+  padding-bottom: 6rem;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  min-height: 100%;
+  
+}
+
+table {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;;
+  font-weight: 20px;
+  font-size: 14px;
+  border-collapse: collapse;
+  width: 75%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+th {
+  border-bottom: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+  font-size: 15px;
+}
+
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  padding: 1rem;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: #226e19;
+}
+
